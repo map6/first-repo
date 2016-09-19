@@ -3,5 +3,5 @@ This is my first text document.
 
 Update with GitBash.
 
-Update with TortoiseGTit.
+Update with TortoiseGit.
 
