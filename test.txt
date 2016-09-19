@@ -1,6 +1,5 @@
 This is my first text document. 
 
-Update with TortoiseGTit.
 
 This is some text.
 
